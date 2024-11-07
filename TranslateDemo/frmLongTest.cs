@@ -15,7 +15,7 @@ namespace TranslateDemo
         public frmLongTest()
         {
             InitializeComponent();
-            int i = 1;
+            int i = 1; // value changed
         }
     }
 }
