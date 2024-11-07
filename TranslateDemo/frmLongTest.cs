@@ -15,6 +15,7 @@ namespace TranslateDemo
         public frmLongTest()
         {
             InitializeComponent();
+            int i = 0;
         }
     }
 }
