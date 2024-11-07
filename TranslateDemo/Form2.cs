@@ -55,8 +55,7 @@ namespace TranslateDemo
             cboTarget.Text = viLang;
             txtSource.Text = txtTarget.Text = "";
         }
-
-        // abc
+        
         #region bgw
         BackgroundWorker bgwTranslating;
         void InitBgwTranslating()
