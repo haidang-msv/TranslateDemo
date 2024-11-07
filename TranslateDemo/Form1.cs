@@ -26,7 +26,7 @@ namespace TranslateDemo
         {
             string translatedText = "";// mình sẽ hướng dẫn các bạn viết một ứng dụng dịch ngôn ngữ
             //try
-            //{
+            //{ // test udpate source code
             //    TranslatorService.LanguageServiceClient client = new TranslatorService.LanguageServiceClient();
             //    translatedText = client.Translate("your App ID", inputText, "vi", "en");
             //}
